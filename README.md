@@ -17,3 +17,9 @@ Actually, scrap that - let's change the intro part entirely.  Maybe it's just a 
 Maybe even I do a brief blurb on why you should read each story up front (or someone else does) and save the essay for last.
 
 I always hate that feeling when you finish a book and there's nothing more written....is there some way to help people exit from that moment of catharsis appropriately?
+
+In this book, tentatively called 'War Stories,' I've concocted a series of short stories that run the gamut of the modern American experience, 
+but each of which has a reference to the wars that largely defined the 2000s for a very small subset of the population.  
+Like a XXX, the effects of these wars were felt enormously by a small community, and only very slightly by many others, at least directly.  
+But throught the subtle transmutations of all societies, and accentuated by cable television and the internet, the effects of those wars have 
+reverberated far beyond the people who directly participated in them.
